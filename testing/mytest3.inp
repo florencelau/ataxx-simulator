@@ -1,0 +1,47 @@
+java -ea ataxx.Main
+block d4
+block c3
+block e6
+block a8
+block g2
+a1-a2
+g1-f3
+g7-e5
+g7-f5
+dump
+@<===
+@<  r - - - - - -
+@<  X - X - X - X
+@<  - - X - X b -
+@<  - - - X - - -
+@<  - - X - X r -
+@<  X - X - X - X
+@<  b - - - - - -
+@<===
+clear
+dump
+@<===
+@<  r - - - - - b
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  b - - - - - r
+@<===
+manual blue
+g1-f1
+a1-f3
+start
+g7-f6
+dump
+@<===
+@<  r - - - - - b
+@<  - - - - - b -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  b - - - - r r
+@<===
+quit

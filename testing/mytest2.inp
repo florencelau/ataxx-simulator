@@ -1,0 +1,38 @@
+# Your very own integration test!
+java -ea ataxx.Main
+
+manual blue
+
+block a1
+
+block b1
+
+block d4
+
+start
+
+a3-a8
+
+a1-b1
+
+a1-a3
+
+d4-e3
+
+a7-b5
+g7-g6
+g1-g3
+
+b5-c3
+
+dump
+@<===
+@<  - X - - - X b
+@<  - - - - - - b
+@<  - r - - - - -
+@<  - - - X - - -
+@<  - - - - - - r
+@<  - - - - - - -
+@<  b X - - - X -
+@<===
+quit

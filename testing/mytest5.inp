@@ -1,0 +1,27 @@
+java -ea ataxx.Main
+block c5
+block d2
+block b2
+block a3
+block d4
+block g5
+block g6
+manual blue
+start
+a7-c7
+g7-f7
+c7-d7
+-
+f7-e7
+-
+dump
+@<===
+@<  - - r b b b b
+@<  X X - X - X X
+@<  X - X - X - X
+@<  - - - X - - -
+@<  X - X - X - X
+@<  X X - X - X X
+@<  b - - - - - r
+@<===
+quit
